@@ -1,0 +1,8 @@
+[
+    {
+        "train_date_start": "2021-09-01",
+        "train_date_end": "2023-01-09",
+        "test_date_start": "2023-01-10",
+        "test_date_end": "2023-01-11"
+    }
+]
